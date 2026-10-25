@@ -1,0 +1,7 @@
+FROM qwen2.5-coder:3b
+PARAMETER num_ctx 2048
+<<<<<<< HEAD
+PARAMETER temperature 0.2
+=======
+PARAMETER temperature 0.2
+>>>>>>> 76df34f50e4238a117f7f6c5f98332359c8ba755
